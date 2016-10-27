@@ -20,4 +20,4 @@ scp username1@hostname1:/path/to/file username2@hostname2:/path/to/other/file
 scp username@hostname:/path/to/remote/file /path/to/local/file
 ``` 
 
-source:http://stackoverflow.com/a/9427762
+SOURCE:http://stackoverflow.com/a/9427762
